@@ -134,10 +134,7 @@ input{
     padding: 4px 0px 0px 3px;
     border: none;
     border-bottom: 3px solid rgb(205, 44, 76);
-}
-
-input:focus{
-    border: none;
+    outline: none;
 }
 
 .h3{
