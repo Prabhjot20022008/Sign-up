@@ -5,13 +5,17 @@
     font-family: Verdana;
 }
 
+    /* HEADER */
+
 header{
     height: 40px;
     width: 100%;
     background-color: black;
     color: white;
     text-align: center;
-}
+ }
+
+    /* MAIN AREA */
 
 main{
     height: 700px;
@@ -27,6 +31,8 @@ main{
     align-items: flex-start;
 }
 
+    /* FORM */
+
 .content-form{
     height: 600px;
     width: 700px;
@@ -36,6 +42,8 @@ main{
     box-shadow: 1px 1px 2px grey;
     padding: 0px 5px 0px 5px;
 }
+
+    /* FORM-TITLE */
 
 .form-top{
     height: 150px;
@@ -66,6 +74,8 @@ main{
     font-size: 30px;
     font-weight: 500;
 }
+
+     /* FORM-BODY */
 
 .form-body{
     height: 450px;
